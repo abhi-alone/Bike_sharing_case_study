@@ -3,8 +3,6 @@
 
 ## Table of Contents
 * [Problem Statement](#problem-statment)
-* [Objective](#Business-Objective)
-* [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Libaries Used](#libaries-used)
 
